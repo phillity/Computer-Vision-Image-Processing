@@ -22,7 +22,7 @@ Example usage: olbp('fake\file\path\image.jpg')
 
 **Example results using the Lenna standard test image (https://en.wikipedia.org/wiki/Lenna):**
 
-![Sample](https://github.com/phillity/Local-Binary-Patterns/blob/master/olbp/olbp_sample.png)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Local-Binary-Patterns/olbp/olbp_sample.png)
 
 ### (Extended) Local Binary Patterns [2]
 (Extended) Local Binary Patterns works by:
@@ -39,7 +39,7 @@ Example usage: elbp('fake\file\path\image.jpg', 1, 8)
 
 **Example results using the Lenna standard test image (https://en.wikipedia.org/wiki/Lenna):**
 
-![Sample](https://github.com/phillity/Local-Binary-Patterns/blob/master/elbp/elbp_sample.png)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Local-Binary-Patterns/elbp/elbp_sample.png)
 
 ### Local Binary Patterns Histograms [3]
 Local Binary Patterns Histograms works by:

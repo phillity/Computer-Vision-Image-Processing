@@ -17,4 +17,4 @@ Example usage: harris_stephens('fake\file\path\image.jpg')
 
 **Example corner detection results:**
 
-![Sample](https://github.com/phillity/Harris-Stephens-Corner-Detection/blob/master/sample.PNG)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Harris-Stephens-Corner-Detection/sample.PNG)

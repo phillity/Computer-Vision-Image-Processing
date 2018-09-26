@@ -35,8 +35,8 @@ Example usage: fisherfaces('fake\file\path\database.txt', 25)
 
 Mean face:
 
-![Sample](https://github.com/phillity/Fisherfaces/blob/master/meanface.jpg)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Fisherfaces/meanface.jpg)
 
 First ten fisherfaces:
 
-![Sample](https://github.com/phillity/Fisherfaces/blob/master/fisherfaces.jpg)
+![Sample](https://github.com/phillity/Fisherfaces/blob/master/Computer-Vision-Image-Processing/blob/master/Fisherfaces/fisherfaces.jpg)

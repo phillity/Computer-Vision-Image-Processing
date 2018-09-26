@@ -24,4 +24,4 @@ Example usage: canny('fake\file\path\image.jpg')
 
 **Example Input Image, Otsu Binary Image and Connected Components Image:**
 
-![Sample](https://github.com/phillity/Connected-Components/blob/master/sample.png)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Connected-Components/sample.png)

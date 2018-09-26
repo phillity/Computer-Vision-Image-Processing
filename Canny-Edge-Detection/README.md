@@ -17,4 +17,4 @@ Example usage: canny('fake\file\path\image.jpg')
 
 **Example results using the Lenna standard test image (https://en.wikipedia.org/wiki/Lenna):**
 
-![Sample](https://github.com/phillity/Canny-Edge-Detection/blob/master/sample.png)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Canny-Edge-Detection/sample.png)

@@ -17,6 +17,6 @@ The output image of the Tan-Triggs Illumination Equalization will be written out
 
 **Example results using images from the BioID Face Database (https://www.bioid.com/facedb/):**
 
-![Sample Input Images](https://github.com/phillity/Tan-Triggs-Illumination-Equalization/blob/master/sample_input.png)
+![Sample Input Images](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Tan-Triggs-Illumination-Equalization/sample_input.png)
 
-![Sample Output Images](https://github.com/phillity/Tan-Triggs-Illumination-Equalization/blob/master/sample_output.png)
+![Sample Output Images](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Tan-Triggs-Illumination-Equalization/sample_output.png)

@@ -29,8 +29,8 @@ Example usage: eigenfaces('fake\file\path\database.txt', 25)
 
 Mean face:
 
-![Sample](https://github.com/phillity/Eigenfaces/blob/master/meanface.jpg)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Eigenfaces/meanface.jpg)
 
 First ten eigenfaces:
 
-![Sample](https://github.com/phillity/Eigenfaces/blob/master/eigenfaces.jpg)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Eigenfaces/eigenfaces.jpg)
