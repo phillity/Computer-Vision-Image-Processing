@@ -1,2 +1,2 @@
 # Computer-Vision
-Computer Vision Algorithm Implementations
+Computer Vision and Image Processing Algorithm Implementations
