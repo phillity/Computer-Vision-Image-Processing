@@ -12,7 +12,7 @@ Bio-Inspired Feature extraction works by:
 
 S-Layer and C-Layer parameters given by [1]:
 
-![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/tree/master/Bio-Inspired-Features/parameters.PNG)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Bio-Inspired-Features/parameters.PNG)
 
 The Matlab script takes three input arguments: bif(filepath, bands, rotations), where filepath is a string containing the absolute path to the image in which you would like to extract Bio-Inspired Features, bands is an integer amount of Gabor kernel pairs that will be applied to the input image using the author's given parameters (8 maximum) and rotations is an integer amount of angles in which each band is applied.
 
