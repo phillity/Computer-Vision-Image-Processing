@@ -39,4 +39,4 @@ Mean face:
 
 First ten fisherfaces:
 
-![Sample](https://github.com/phillity/Fisherfaces/blob/master/Computer-Vision-Image-Processing/blob/master/Fisherfaces/fisherfaces.jpg)
+![Sample](https://github.com/phillity/Computer-Vision-Image-Processing/blob/master/Fisherfaces/fisherfaces.jpg)
